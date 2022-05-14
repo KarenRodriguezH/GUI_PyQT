@@ -4,6 +4,7 @@ from PyQt5.QtGui import QImage
 import cv2    
 #import imutils
 #import 
+#import
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
