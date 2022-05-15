@@ -5,7 +5,7 @@
 
 
 
-### He utilizado Anaconda Navigator, ejecutando directamente Visual Studio Code o abriendo el PowerShell.
+### He utilizado Anaconda Navigator, ejecutando directamente Visual Studio Code o abriendo el PowerShell. 
 
 
 
